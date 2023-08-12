@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PlanRotich
+- 👀 I’m interested in learning R programming through collective effort and contributions.
+- 🌱 I’m currently learning R programming
+- 💞️ I’m looking to collaborate on writing functions and spatial data anlysis
+- 📫 Reach me through personal email robaakipyator@gmail.com or phone +254715273556 strictly on whatsapp
